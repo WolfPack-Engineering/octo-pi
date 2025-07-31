@@ -1,7 +1,7 @@
-# MoRDeP
-The Modular Robotic Development Platform
+# Octo-Pi
+A Modular Robotic Development Platform on a Raspberry Pi and some Raspberry Picos
 
 Name Ideas:
-- MoRDeP-Core
-- MoRDeP-Node
-- MoRDeP-Link
+- Octo-pi-Core
+- Octo-pi-Node
+- Octo-pi-Link
